@@ -1,0 +1,6 @@
+export const aboutData = {
+    title: "Who I am",
+    description1: "Hello! My name is Vraj Patel. I'm an aspiring Front-End developer.",
+    description2: "I am a student at George Brown College, currently learning Computer Programming and Analysis. I specialize in creating the visual aspects of a website. I am proficient in programming languages such as HTML, CSS, and JavaScript, and have a deep understanding of how these languages can be used to create visually appealing and functional user interfaces. I am also familiar with front-end frameworks such as React, Angular, and Vue, and am constantly learning new tools and techniques to enhance my skills. I have knowledge of user experience (UX) and user interface (UI) design principles, and work closely with designers to ensure that the website or application being built meets the needs of its users. Additionally, I possess excellent communication skills and work collaboratively with others to create high-quality, responsive, and user-friendly websites and applications.",
+    image: 2
+}
